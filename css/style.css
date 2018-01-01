@@ -64,7 +64,7 @@ figure {
 
 a:link {color: white;}
 a:visited {color: purple;}
-a:hover {color:blue; font-size: 1.2em}
+a:hover {color:#8e90ff;}
 
 ul {
   list-style-type: none;
